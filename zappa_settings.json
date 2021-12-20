@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "ap-south-1",
+        "profile_name": "default",
+        "project_name": "ocr-aadhar",
+        "runtime": "python3.8",
+        "s3_bucket": "kanak-flask"
+    }
+}
